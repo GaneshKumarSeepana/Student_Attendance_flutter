@@ -9,7 +9,7 @@ A Flutter application for tracking student attendance across multiple courses wi
 👉 **[Open Web Demo](https://ganeshkumarseepana.github.io/Student_Attendance_flutter/)**  
 
 > The web build is deployed using GitHub Pages.  
-> Best viewed on desktop or tablet.
+> Best viewed on mobile or tablet.
 
 ---
 
